@@ -1,0 +1,20 @@
+{
+    "tabnine.experimentalAutoImports": true, 
+    "workbench.colorTheme": "Code Hunter - BluePurly",
+    "security.workspace.trust.untrustedFiles": "open",
+    
+    // Enable Word Wrap
+    "editor.wordWrap": "on",
+
+    // Controls the font family.
+    // "editor.fontFamily": "Operator Mono, Fira Code",
+
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#fffb00",
+        "terminalCursor.foreground": "#fffb00"
+    },
+    // Enables Cursor Animation: smooth, phase, expand, solid
+    "editor.cursorBlinking": "expand",
+    // Enables Font ligatures
+    "editor.fontLigatures": true,
+}
